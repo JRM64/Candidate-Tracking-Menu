@@ -1,10 +1,6 @@
 import java.util.Scanner;
 
 /**
- * CSC240
- * Dr. Richard Epstein
- * Assignment #3
- * 
  * @author Jack Mitchell
  */
 
